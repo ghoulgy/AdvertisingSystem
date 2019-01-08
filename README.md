@@ -4,7 +4,7 @@ This a real-time web application which is allow users to post their needs and de
 
 It is focused more on the usage of google maps and integration of the Vue.js google maps library by using Laravel as the PHP Backend Framework.
 
-:heavy_exclamation_mark: **Remarks For Windows**  
+**:heavy_exclamation_mark: Remarks For Windows**  
 Can use Windows Subsystem Linux to install a Ubunutu machine that create the Redis server connect with the app.  
 
 ## Pre-requisite
