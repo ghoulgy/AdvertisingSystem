@@ -1,4 +1,4 @@
-## Bulletin System
+## Bulletin System [No longer maintained]
 
 This a real-time web application which is allow users to post their needs and demands online so that the people nearby can discover it.
 
